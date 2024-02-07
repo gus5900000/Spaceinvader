@@ -29,7 +29,7 @@ pip install pyxel
 python nom_du_fichier.py
 ```
 
-Remplacez `nom_du_fichier.py` par le nom réel du fichier Python contenant le code du jeu.
+Remplacez `Space invader V2gus.py` par le nom réel du fichier Python contenant le code du jeu.
 
 ## Commandes
 
